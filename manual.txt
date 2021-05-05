@@ -1,0 +1,9 @@
+1. Activate virtual environment:olga@olga-Vostro-3400:~/Documents/hole/safety$
+source ./venv/bin/activate
+
+2.
+export FLASK_ENV=development
+export FLASK_APP=app.py
+
+3.
+flask run
